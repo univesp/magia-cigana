@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[Cena_4_teste_menino]439f3744dbde9a740a5234355096c35c_1_1'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: 439f3744dbde9a740a5234355096c35c, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/_Art/Cena_4_teste_menino/
+  m_Data:
+  - m_SearchName: Cena_4_teste_menino
+    m_SharedTexture: {fileID: 2800000, guid: b8bb0e46cb44d3645b8d4ffc779093ce, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: f57825a6ec602da478a609c97989bf83, type: 2}
